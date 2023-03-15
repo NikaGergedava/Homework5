@@ -2,6 +2,7 @@ header{
     width: 1440px;
     margin: 0 auto;
     padding: 38px 130px 38px 130px;
+    box-shadow: 0px 8px 30px
 }
 .inline_block{
     display: inline-block;
@@ -61,5 +62,47 @@ nav{
     font-weight: 600;
     font-size: 20px;
 }
+section{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #C2F3EE;
+    padding: 80px 130px;
 
-
+}
+.sectiontitle{
+    width: 480px;
+    height: 90px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+}
+.sectiontext{
+    width: 480px;
+    height: 324px;
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    color: #515151;
+}
+.sectionimage{
+    vertical-align: top;
+}
+.sectiongroup{
+    vertical-align: top;
+    margin-left: 90px;
+}
+.sectionbutton{
+    width: 239px;
+    height: 40px;
+    background-color: #2A9D8F;
+    border-style: none;
+}
+.sectionbuttontext{
+    padding: 8px 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}

@@ -1,0 +1,65 @@
+header{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 38px 130px 38px 130px;
+}
+.inline_block{
+    display: inline-block;
+}
+.Headerlogo{
+    vertical-align: middle;
+}
+.headertitle{
+    vertical-align: middle;
+    padding-left: 15px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 280px;
+}
+.home{
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+    color: #6D6D6D;
+
+}
+.post{
+    margin-left: 55px;
+    margin-right: 47px;
+    font-family: Nerko One;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+    color: #6D6D6D;
+
+}
+.newsletter{
+    font-family: Nerko One;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+    color: #6D6D6D;
+
+}
+.HeaderButton{
+    width: 153.99px;
+    height: 46px;
+    margin-left: 200px;
+    background-color: #2A9D8F;
+    border: none;
+}
+.HeaderButtonText{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+

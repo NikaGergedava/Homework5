@@ -106,3 +106,46 @@ section{
     font-weight: 400;
     font-size: 16px;
 }
+article{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 200px 330px;
+}
+.articletitle{
+    color: #4D4D4D;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    text-align: center;
+}
+.articleimage{
+    width: 97.5px;
+    height: 100.08px;
+    vertical-align: top;
+}
+.articletext{
+    width: 640px;
+    height: 120px;
+    display: inline-block;
+    vertical-align: top;
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #656565;
+    text-align: justify;
+
+}
+.articlegroup{
+    margin-top: 60px;
+}
+.articletext2{
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #656565;
+    text-align: justify;
+    width: 740px;
+}
